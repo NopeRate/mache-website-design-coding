@@ -1,4 +1,4 @@
-This Google Clone was made by Mert AKPINAR.
+This this project was made by Mert AKPINAR.
 Interacting with the files assumes that the user accepts the following legal clauses.
 
 - You have been given copy files of a project.You are not the owner of the project.
@@ -6,5 +6,5 @@ Interacting with the files assumes that the user accepts the following legal cla
 - This is a website or design clone project.
 - You may not reproduce, share or use together with other people's / companies this copy without permission.
 
-You can contact with me Instagram. (https://instagram.com/thenoperate)
+You can contact with me on mail: (contact@noperate.com)
 
